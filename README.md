@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou a DataRover</h1>
-<h3 align="center">Apaixonada por ciência e análise de dados no mundo digital</h3>
+<h1 align="center">Oi 👋, Eu sou um DataRover</h1>
+<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
 - 🌱 Atualmente estou aprendendo **PowerBi, SAS**
 
@@ -23,20 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techdatarover&show_icons=true&locale=en&layout=compact" alt= "techdataover" /></p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=techdatarover&show_icons=true&locale=en" alt="techdatarover" /></p>
-
-
-
-
-<!---
-- 👋 Hi, I’m @TechDataRover
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-TechDataRover/TechDataRover is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
