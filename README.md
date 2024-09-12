@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou a DataRover</h1>
+<h1 align="center">Oi 👋, Eu sou a Alê</h1>
 <h3 align="center">Apaixonada por ciência e analise de dados no mundo digital</h3>
 
 - 🌱 Atualmente estou aprendento **PowerBi, SAS**
