@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, Eu sou a Alê</h1>
 <h3 align="center">Apaixonada por ciência e analise de dados no mundo digital</h3>
-
-- 🌱 Atualmente estou aprendento **PowerBi, SAS**
+ 
+- 🌱 Atualmente estou aprendento **Power Bi, SAS, Java**
 
 - 👯 Também estou compartilhando no Instagram [Tech Data Rover](https://www.instagram.com/techdatarover/)
 
 - 💬 Me pergunte sobre **SQL,Python e Google Looker Studio,**
 
-- 📫 Você me acha **datarover.tech@gmail.com**
+- 📫 Você me acha **ale.domiciano.dl@gmail.com**
 
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/alessandra-domiciano/](https://www.linkedin.com/in/alessandra-domiciano/)
 
