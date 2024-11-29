@@ -3,7 +3,7 @@
  
 - 🌱 Atualmente estou aprendento **Power Bi, SAS, Java**
 
-- 👯 Também estou compartilhando no Instagram [Tech Data Rover](https://www.instagram.com/techdatarover/)
+- 👯 Também estou compartilhando no Instagram [@_dev.br](https://www.instagram.com/_dev.br/)
 
 - 💬 Me pergunte sobre **SQL,Python e Google Looker Studio,**
 
