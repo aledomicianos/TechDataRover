@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou a Alê</h1>
-<h3 align="center">Apaixonada por ciência e analise de dados no mundo digital</h3>
+<h3 align="center">Apaixonada pelo mundo de tech</h3>
  
 - 🌱 Atualmente estou aprendento **Power Bi, SAS, Java**
 
